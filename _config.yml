@@ -1,4 +1,4 @@
-title: <p align="left"> Krishna Chaitanya Bh </p>
+title: <p align="center"> Krishna Chaitanya Bh </p>
 logo: /assets/img/logo.png
 
 description:
@@ -7,10 +7,8 @@ description:
   <a href="https://github.com/Chaitu7">GitHub</a>
   
   <br>   
-  I'm working as a Data Engineer. Have a proven track record of designing and implementing complex data solutions. Skilled in developing scalable ETL pipelines, data modeling, and deploying machine learning models to extract valuable insights from large datasets. Proficient in programming languages such as Python, SQL with an understanding of cloud platforms like OCI. Collaborative team player with excellent communication skills, adept at translating business requirements into technical solutions. Passionate about leveraging data-driven approaches to drive business growth and enhance decision-making processes.
+  I'm working as a Data Engineer. Have a proven track record of designing and implementing complex data solutions. Skilled in developing scalable ETL pipelines, data modeling, and deploying machine learning models.
   <br>
   </p>
-
-
 
 theme: jekyll-theme-minimal
